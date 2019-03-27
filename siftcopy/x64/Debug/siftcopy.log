@@ -1,0 +1,5 @@
+﻿  sift.cpp
+e:\code\visual studio\projects\siftcopy\siftcopy\sift.cpp(206): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\code\visual studio\projects\siftcopy\siftcopy\sift.cpp(228): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  siftcopy.vcxproj -> E:\code\visual studio\projects\siftcopy\x64\Debug\siftcopy.exe
+  siftcopy.vcxproj -> E:\code\visual studio\projects\siftcopy\x64\Debug\siftcopy.pdb (Full PDB)
